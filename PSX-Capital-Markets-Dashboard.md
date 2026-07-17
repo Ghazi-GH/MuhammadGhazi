@@ -11,3 +11,11 @@ Asset managers, corporate treasury desks, and quantitative analysts frequently s
 
 ## 🚀 The Result
 Created an institutional-grade investment screening terminal that converts fragmented market metrics into active allocation signals. The platform enables fund managers to instantaneously evaluate macro yield spreads on banking giants like **UBL** and **NBP**, track structural volume profiles and support/resistance channels on **BOP** and **SYS**, and monitor technical trend cycles on high-beta heavyweights like **HUBC**, **OGDCL**, and **Mari Petroleum (MARI)**.
+
+    
+      ### 📊 Dashboard Preview
+    
+    <!-- Replace the URL in the parenthesis below with the actual path to your image asset or hosting URL -->
+    ![PSX Capital Markets Dashboard Preview](./assets/psx-dashboard-screenshot.png)
+    
+    👉 **[View Interactive Live Dashboard →](https://tinyurl.com/MuhammadGhaziPSX))**
