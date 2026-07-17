@@ -14,6 +14,6 @@ Created an institutional-grade investment screening terminal that converts fragm
 
     
   ### 📊 Dashboard Preview    
-  ![PSX Capital Markets Dashboard Preview](./PSX-DASHBOARD.png)
+  ![PSX Capital Markets Dashboard Preview](./assets/psx-dashboard.png)
 
 **[View Interactive Live Dashboard →](https://tinyurl.com/MuhammadGhaziPSX))**
