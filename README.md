@@ -41,3 +41,6 @@ Minimalist dashboard tracking my financial engines, econometric forecasting mode
 
 ---
 
+* **[PSX Capital Markets Intelligence Terminal](./PSX-Capital-Markets-Dashboard.md)**
+    * *Description:* An institutional-grade screening terminal integrating yield-spread arbitrage filters and dynamic multi-horizon candlestick technical tracking across core index listings like UBL, NBP, BOP, HUBC, SYS, OGDC, and MARI.
+    * *Tech Stack:* Power BI, Advanced DAX Data Modeling, Star Schema Architecture, Quantitative Capital Market Analysis.
