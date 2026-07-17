@@ -18,4 +18,4 @@ Created an institutional-grade investment screening terminal that converts fragm
 
 
 ### 🔗 Live Interactive Link
-[Click Here to Launch Interactive Dashboard](https://tinyurl.com/MuhammadGhaziPSX))
+[Click Here to Launch Interactive Dashboard](https://tinyurl.com/MuhammadGhaziPSX)
