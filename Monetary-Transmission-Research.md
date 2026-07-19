@@ -6,7 +6,7 @@ How do central bank policy choices transmit into real economic activity via asse
 ## 🛠️ The Technical Action
 * Developed two distinct **5-variable Vector Error Correction Models (VECM)** utilizing high-frequency monthly macroeconomic time-series data spanning from July 2015 to January 2025.
 * Extracted and structured variables from the **State Bank of Pakistan (SBP) E-Data Portal**, **Pakistan Bureau of Statistics (PBS)**, **Federal Reserve Economic Data (FRED)**, and **Yahoo Finance**.
-* Executed rigorous time-series pre-estimation testing: verified uniform order of integration ($I(1)$) using **Augmented Dickey-Fuller (ADF)** and **Phillips-Perron (PP)** tests and evaluated lag configurations via **AIC/SC criteria**.
+* Executed rigorous time-series pre-estimation testing: verified uniform order of integration (I(1)) using **Augmented Dickey-Fuller (ADF)** and **Phillips-Perron (PP)** tests and evaluated lag configurations via **AIC/SC criteria**.
 * Established long-run economic cointegration ranks ($r=1$) through the **Johansen Cointegration framework**.
 * Mapped short-run structural innovations and volatility distributions by deriving **Impulse Response Functions (IRFs)** and **Forecast Error Variance Decompositions (FEVD)** over a 10-month horizon.
 
