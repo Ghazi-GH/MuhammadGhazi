@@ -13,7 +13,7 @@ Quantifying the precise long-run and short-run dynamics of specific sector gaps 
 The model successfully isolated the structural impact of resource gaps: **the negative coefficient on the MXD variable conclusively proved that an expansion in the mineral export deficit severely hurts the national current account balance over the long run.** The VECM framework precisely calculated the annual speed of adjustment back to equilibrium following a macroeconomic shock.
 
 ### 📸 Econometric Model Output Snapshot
-![EViews Output.png](./Eviews-Output.jpeg)
+[EViews Output.png](./Eviews-Output.jpeg)
 
 ---
 ### 🔗 Research Documentation
