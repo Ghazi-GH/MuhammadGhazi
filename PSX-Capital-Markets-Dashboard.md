@@ -18,4 +18,4 @@ Created an institutional-grade investment screening terminal that converts fragm
 
 
 ### 🔗 Live Interactive Link
-[Click Here to Launch Interactive Dashboard]((https://app.powerbi.com/view?r=eyJrIjoiMTBkM2QzYTUtYjRmMC00NjJlLThjNzgtYTNkY2VmZTM0NDBlIiwidCI6ImY4ZTJkM2E5LWM1YmQtNGY0Zi04MTdjLWQ4NzEzMDY2ZjFjZiJ9)
+[Click Here to Launch Interactive Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMTBkM2QzYTUtYjRmMC00NjJlLThjNzgtYTNkY2VmZTM0NDBlIiwidCI6ImY4ZTJkM2E5LWM1YmQtNGY0Zi04MTdjLWQ4NzEzMDY2ZjFjZiJ9)
