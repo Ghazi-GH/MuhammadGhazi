@@ -15,7 +15,4 @@ Created an executive-level Power BI dashboard that translates complex regional d
 ### 📸 Dashboard Interface Snapshot
 <img width="1917" height="1043" alt="image" src="https://github.com/user-attachments/assets/dc227d39-50f7-4177-8c72-178d323704bc" />
 
----
-### 🔗 Live Interactive Link
- [Click Here to Launch Interactive Dashboard](https://tinyurl.com/Ghazi-BI)
- 
+
